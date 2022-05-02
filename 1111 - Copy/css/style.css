@@ -1,0 +1,131 @@
+body{
+height: auto ;
+}
+.col {
+  background-color: white;
+  color: mediumpurple;
+}
+.col a{
+  background-color: mediumpurple;
+  color: white;
+  float: right;
+}
+.navbar-brand img {
+  width: 75px;
+  height: 75 px;
+}
+.collapse ul li{
+  float: right;
+}
+span {
+  color: mediumpurple;
+}
+.right{
+  float: right;
+}
+.feutures i {
+  color: mediumpurple;
+}
+.feutures h2{
+  color: mediumpurple;
+}
+.feutures{
+  color: white;
+ background-image: url('../images/ppp.jpg');
+ margin: 20px;
+ padding: 30px ;
+}
+.statistics{
+  margin: 20px;
+  background-image: url('../images/ppp.jpg');
+  padding: 40px;
+}
+.statistics h2{
+  color:mediumpurple;
+}
+.statistics p{
+  color: white;
+}
+
+.card-title{
+  color: mediumpurple;
+  background-color: white;
+  float: left;
+}
+.card-text{
+  color: mediumpurple;
+  background-color: white;
+}
+.our-customers img{
+  width: 100px;
+  height: 100px;
+}
+.our-customers{
+  background-image: url('../images/ppp.jpg');
+  padding: 40px ;
+  margin: 20px;
+}
+.our-team{
+  background-image: url('../images/ppp.jpg');
+}
+.recent-news{
+  padding: 20px;
+  background-image: url('../images/ppp.jpg');
+}
+footer img{
+  width: 50px;
+  height: 50px;
+}
+footer a{
+  text-decoration: none;
+}
+footer a:hover{
+  color:green
+}
+footer ul li{
+  list-style: none;
+  color: white;
+}
+footer{
+  background-color: mediumpurple;
+  color: white;
+  padding: 20px;
+  margin: 20px;
+}
+h2 {
+  color: mediumpurple;
+}
+.btn{
+  background-color: mediumpurple;
+  color: white;
+}
+.jumbotron{
+  display: flex;
+  justify-content: space-between;
+}
+.jumbotron .blog-info {
+  flex: 2;
+}
+.jumbotron .blog-image{
+  flex: 1;
+}
+.col-md-3 img{
+  margin-top: 20px;
+}
+.courses img:hover{
+  transform: scale(1.1);
+}
+.card-body {
+  display: block;
+}
+.python{
+  background-color: white;
+}
+.title{
+  float: left;
+  text-decoration: none;
+}
+.card-body a{
+  text-decoration: none;
+  float: right;
+}
